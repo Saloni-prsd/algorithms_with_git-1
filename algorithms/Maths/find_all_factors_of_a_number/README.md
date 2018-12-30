@@ -22,3 +22,4 @@ The factors of the given number are
 ```
 ### Implemented in:
 - [C++](find_all_factors_of_a_number.cpp)
+- [Python](find_all_factors_of_a_number.py)
